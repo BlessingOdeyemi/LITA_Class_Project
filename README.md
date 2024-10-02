@@ -15,7 +15,7 @@ Exploratory Data Analysis
 
 Data Analysis
 
-[Data Visualization](#data_visualization)
+[Data Visualization](#data-visualization)
 
 
 ### Project Overview: 
@@ -59,6 +59,8 @@ WHERE FEMI = true
 ```
 
 ### Data Visualization
+---
+
 ![GitHub Practice](https://github.com/user-attachments/assets/6afecfc1-6f08-4505-86c3-2eaba2373f54)
 
 
