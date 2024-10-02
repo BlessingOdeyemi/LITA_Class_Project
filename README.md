@@ -42,3 +42,6 @@ This is where we include some basic lines of code/queries or even the DAX expres
 SELECT * FROM TABLE1
 WHERE FEMI = true
 ```
+
+### Data Visualization
+![GitHub Practice](https://github.com/user-attachments/assets/6afecfc1-6f08-4505-86c3-2eaba2373f54)
