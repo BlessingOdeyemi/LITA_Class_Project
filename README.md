@@ -15,7 +15,7 @@ Exploratory Data Analysis
 
 Data Analysis
 
-Data Visualization
+[Data Visualization](#data_visualization)
 
 
 ### Project Overview: 
