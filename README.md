@@ -3,6 +3,23 @@ This is where my first project from Ladies in Tech Africa is documented
 
 # Project Title: Practice portfolio
 
+.[Project Overview]. (#Project-Overview)
+
+Project Overview
+
+Data Sources
+
+Tools Used
+
+Data Cleaning and Preparation
+
+Exploratory Data Analysis
+
+Data Analysis
+
+Data Visualization
+
+
 ### Project Overview: 
 ---
 This project is a practice and learning curve on how to find my way around and leverage GitHub
@@ -32,7 +49,7 @@ In the initial phase of the data cleaning and preparation, the following actions
 EDA involves the exploring of the data to answer some questions about the data, such as;
 - What is the overall sales trend?
 - Which product are top sellers?
-- What are the products on peak sales?
+- What are the products on peak sales? 👀
 
 ### Data Analysis
 ---
@@ -45,3 +62,10 @@ WHERE FEMI = true
 
 ### Data Visualization
 ![GitHub Practice](https://github.com/user-attachments/assets/6afecfc1-6f08-4505-86c3-2eaba2373f54)
+
+
+|Heading 1| Heading 2| Heading 3|
+|---------|----------|----------|
+|Table 1| Table 2| Table 3|
+
+
