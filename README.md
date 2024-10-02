@@ -1,2 +1,44 @@
 # LITA_Class_Project
-This is where my first project from Ladies in Tech Africa is documented 
+This is where my first project from Ladies in Tech Africa is documented  
+
+# Project Title: Practice portfolio
+
+### Project Overview: 
+---
+This project is a practice and learning curve on how to find my way around and leverage GitHub
+
+### Data Sources: 
+---
+This basically contains where the data is gotten from. E.g. The primary sources of the data used is ... (The file itself/the file name) and this is an open source data downloaded from Kaggle or FRED
+
+### Tools Used:
+---
+- Microsoft Excel [Download Here](https://www.microsoft.com)
+  1. For data cleaning
+  2. For data analysis
+  3. For data visualization
+- SQL - for querying od data
+- GitHub for portfolio building
+
+### Data Cleaning and Preparation
+---
+In the initial phase of the data cleaning and preparation, the following actions were performed;
+1. Data loading and inspection
+2. Handling missing variables
+3. Data cleaning and formatting
+
+### Exploratory Data Analysis
+---
+EDA involves the exploring of the data to answer some questions about the data, such as;
+- What is the overall sales trend?
+- Which product are top sellers?
+- What are the products on peak sales?
+
+### Data Analysis
+---
+This is where we include some basic lines of code/queries or even the DAX expressions used during your analysis;
+
+```SQL
+SELECT * FROM TABLE1
+WHERE FEMI = true
+```
