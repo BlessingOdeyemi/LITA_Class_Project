@@ -3,9 +3,7 @@ This is where my first project from Ladies in Tech Africa is documented
 
 # Project Title: Practice portfolio
 
-.[Project Overview]. (#Project-Overview)
-
-Project Overview
+[Project Overview](#project-overview)
 
 Data Sources
 
